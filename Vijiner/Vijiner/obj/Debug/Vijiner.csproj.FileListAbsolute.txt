@@ -1,0 +1,6 @@
+c:\users\sveta\documents\visual studio 2017\Projects\Vijiner\Vijiner\bin\Debug\Vijiner.exe.config
+c:\users\sveta\documents\visual studio 2017\Projects\Vijiner\Vijiner\bin\Debug\Vijiner.exe
+c:\users\sveta\documents\visual studio 2017\Projects\Vijiner\Vijiner\bin\Debug\Vijiner.pdb
+c:\users\sveta\documents\visual studio 2017\Projects\Vijiner\Vijiner\obj\Debug\Vijiner.csprojResolveAssemblyReference.cache
+c:\users\sveta\documents\visual studio 2017\Projects\Vijiner\Vijiner\obj\Debug\Vijiner.exe
+c:\users\sveta\documents\visual studio 2017\Projects\Vijiner\Vijiner\obj\Debug\Vijiner.pdb
